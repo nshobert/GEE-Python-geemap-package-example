@@ -7,9 +7,7 @@ name = "pypi"
 geemap = "*"
 jupyterlab = "*"
 jupyter-contrib-nbextensions = "*"
-geos = "*"
-shapely = "*"
-pyshp = "*"
+matplotlib = "*"
 
 [dev-packages]
 
