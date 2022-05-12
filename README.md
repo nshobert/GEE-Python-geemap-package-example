@@ -18,7 +18,7 @@ Change into the new directory
 C:\Users\<USERNAME>> cd GEE-Python-geemap-package-example 
 ```
 
-and start a virtual environment from the command line
+and start a virtual environment from the command line (and if that doesn't work, try `python -m pipenv shell`)
 ```
 C:\Users\<USERNAME>\GEE-Python-geemap-package-example> pipenv shell
 ```
