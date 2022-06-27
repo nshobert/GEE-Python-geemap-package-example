@@ -10,7 +10,7 @@ The notebook includes instructions for preparing a virtual environment using eit
 To install using pip, you can clone this repo into a terminal by typing
 
  ```
-C:\Users\<USERNAME>>git clone https://ngi001@dev.azure.com/ngi001/NGI%20Natural%20Hazards/_git/GEE-Python-geemap-package-example
+C:\Users\<USERNAME>>git clone https://github.com/nshobert/GEE-Python-geemap-package-example.git
 ```
 
 Change into the new directory
@@ -32,8 +32,8 @@ It should be noted that the conda environment supports a bonus map making module
 
 ## Dependencies
 To run the notebook in a pip environment, the user should have installed:
-- pyenv, [NGI-adapted guide](https://ngiwiki.slite.com/app/docs/KXWBnnQrSS_Uu4)
-- pipenv, [NGI-adapted guide](https://ngiwiki.slite.com/app/docs/tO10k0gX_U-6Ve)
+- pyenv
+- pipenv
 
 The code in this repo has successfully been run on:
 - cmd Windows 10
